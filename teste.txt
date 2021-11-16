@@ -1,5 +1,5 @@
 testando git
 
-tstando push
+testando push
 
 teste 2
